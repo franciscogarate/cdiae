@@ -1,0 +1,65 @@
+# Data Science
+numpy
+pandas==2.2.2
+scipy==1.16.1
+statsmodels==0.14.1
+
+# Data Wrangling
+pyjanitor
+names-dataset
+gender-guesser
+
+# Jupyter
+jupytext
+
+# Machine learning y SOM
+scikit-learn~=1.0
+minisom
+
+# Financieras-Actuariales
+numpy-financial
+pyliferisk
+dateutils
+yfinance
+
+# Graficas
+matplotlib
+seaborn
+pyarrow
+plotly
+
+# Excel
+openpyxl<4.0.0,>=3.0.6
+xlrd==2.0.1
+lxml==4.9.4
+xlwt
+html5lib
+pyxlsb
+#xlsxwriter
+
+# Env
+python-dotenv
+dotenv
+
+# Kedro
+kedro>=0.18.2
+kedro-datasets
+#kedro-viz[aws]
+ipykernel
+s3fs    # S3 Amazon
+adlfs   # Azure Data Lake
+plotly
+fsspec>=2023.9.0
+
+# GIS
+geopy
+folium
+
+# IA
+langchain
+openai
+langchain_openai
+langchain_community
+langgraph
+anthropic
+faiss-cpu
