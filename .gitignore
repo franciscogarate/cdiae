@@ -1,6 +1,6 @@
 # Temp
 .DS_Store
-casos/*.docx
+casos/
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
